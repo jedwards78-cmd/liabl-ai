@@ -1,6 +1,6 @@
 # LIABL.ai — Investor Prototype
 
-Adaptive liability waivers built with Next.js 14 + Supabase.
+ Adaptive liability waivers built with Next.js 14 + Supabase.
 
 ## Setup
 
